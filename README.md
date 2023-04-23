@@ -25,5 +25,7 @@ Can we predict the price of a game using its features?
 
 ## References
 - <https://www.kaggle.com/datasets/fronkongames/steam-games-dataset>
-- 
+- <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html>
+- <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html>
+- <https://towardsdatascience.com/machine-learning-gridsearchcv-randomizedsearchcv-d36b89231b10>
 
